@@ -1,5 +1,4 @@
 <template>
-  <Header>
     <div class="container mt-4">
       <h4>Dashboard <small class="text-muted">Control Panel</small></h4>
       <div class="row my-4">
@@ -77,7 +76,6 @@
         </div>
       </div>
     </div>
-  </Header>
 </template>
 
 <script setup>

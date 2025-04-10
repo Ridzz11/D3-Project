@@ -1,5 +1,4 @@
 <template>
-  <Header>
     <div class="container mt-4">
       <h4>Kelola Toko <small class="text-muted">Kelola Toko</small></h4>
 
@@ -80,7 +79,6 @@
         </div>
       </div>
     </div>
-  </Header>
 </template>
 
 <script setup>

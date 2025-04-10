@@ -1,5 +1,4 @@
 <template>
-  <Header>
     <div class="container mt-4">
       <h4>Master Data</h4>
       <div class="mb-3 d-flex align-items-center justify-content-between">
@@ -102,7 +101,6 @@
         </div>
       </div>
     </div>
-  </Header>
 </template>
 
 <script setup>

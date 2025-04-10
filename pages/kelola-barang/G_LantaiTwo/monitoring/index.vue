@@ -1,5 +1,4 @@
 <template>
-  <Header>
     <div class="container mt-4">
       <h4>
         Monitoring Barang
@@ -120,7 +119,6 @@
         </div>
       </div>
     </div>
-  </Header>
 </template>
 
 <script setup>

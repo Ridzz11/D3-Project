@@ -1,5 +1,4 @@
 <template>
-  <Header>
     <div class="container mt-4">
       <h4>
         Barang Masuk
@@ -82,7 +81,6 @@
         </div>
       </div>
     </div>
-  </Header>
 </template>
 
 <script setup>
