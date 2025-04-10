@@ -32,7 +32,7 @@
           <td>{{ item.size_name }}</td>
           <td>{{ item.category_name }}</td>
           <td>
-            <button class="btn btn-success btn-sm me-1" @click="editBarang(item)">Edit</button>
+            <button class="btn btn-warning btn-sm me-1" @click="editBarang(item)">Edit</button>
             <button class="btn btn-danger btn-sm" @click="konfirmasiHapus(item.id)">Delete</button>
           </td>
         </tr>
